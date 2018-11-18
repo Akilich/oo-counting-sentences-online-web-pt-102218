@@ -16,4 +16,3 @@ class String
       sentences.delete_if{|space| space.length == 0}
       sentences.count
   end
-end 
